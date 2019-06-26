@@ -9,6 +9,7 @@
         <name>x_snc_createnotes.note_user</name>
         <requires_subscription/>
         <scoped_admin>false</scoped_admin>
+        <snbe>false</snbe>
         <suffix>note_user</suffix>
         <sys_class_name>sys_user_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>

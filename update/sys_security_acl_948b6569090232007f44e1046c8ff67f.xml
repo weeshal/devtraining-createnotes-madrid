@@ -5,6 +5,7 @@
         <advanced>false</advanced>
         <condition/>
         <description>Default access control on x_snc_createnotes_note</description>
+        <express_security>false</express_security>
         <name>x_snc_createnotes_note</name>
         <operation display_value="create">create</operation>
         <script/>
